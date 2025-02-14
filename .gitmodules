@@ -1,0 +1,3 @@
+[submodule "Phishing_link_scanner"]
+	path = Phishing_link_scanner
+	url = https://github.com/PradeepBhattarai/Phishing_link_scanner.git
